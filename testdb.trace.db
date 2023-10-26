@@ -1,0 +1,12 @@
+2023-10-25 21:39:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DISCIPLINE" not found (this database is empty); SQL statement:
+insert into discipline (id, name, teacher) values (default, ?, ?) [42104-214]
+2023-10-25 21:52:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+insert into students (id, age, faculty, name, surname) values (default, ?, ?, ?, ?) [42104-214]
+2023-10-25 21:52:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+insert into students (id, age, faculty, name, surname) values (default, ?, ?, ?, ?) [42104-214]
+2023-10-25 21:53:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+insert into students (id, age, faculty, name, surname) values (default, ?, ?, ?, ?) [42104-214]
